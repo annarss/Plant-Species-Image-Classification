@@ -333,3 +333,32 @@ calathea_madallion:253
 <img width="830" height="859" alt="Screenshot 2026-03-08 213258" src="https://github.com/user-attachments/assets/fa2052f8-bee2-4983-a03d-01656271f786" />
 <img width="808" height="886" alt="Screenshot 2026-03-08 213306" src="https://github.com/user-attachments/assets/53ef3e2c-c24b-4e5a-bc76-7ab87f79e1b5" />
 
+# Reflection Questions
+
+## 1. How did the number of images per class affect your model’s accuracy?
+
+The number of images per class had a significant effect on the model’s accuracy. Having around 250 images for each plant species helped the model learn more visual patterns and features. With more training images, the model was able to better recognize differences between plant species and reduce classification errors.
+
+---
+
+## 2. Which plant species were most commonly misclassified and why?
+
+Plants that share similar shapes, colors, or patterns were most commonly misclassified. For example, Boston Fern (Bostoniensis) and Bird’s Nest Fern have similar leaf structures, which may confuse the model.
+
+---
+
+## 3. How did changing the epochs, batch size, or learning rate affect the training results?
+
+Changing the training parameters affected how the model learned from the dataset. Increasing the number of epochs allowed the model to train longer and improve its accuracy. The batch size affected how many images were processed at once during training, which influenced the speed and stability of learning. The learning rate controlled how quickly the model updated its weights during training.
+
+---
+
+## 4. What challenges did you encounter during dataset collection and labeling?
+
+One challenge was finding enough clear and high-quality images for each plant species. Some images were blurry, contained multiple plants, or had watermarks. Another challenge was ensuring that the images were correctly labeled so the model could learn the correct classification for each plant species.
+
+---
+
+## 5. If you were to improve your model, what specific changes would you make and why?
+
+To improve the model, I would collect more images for each plant species and include different angles, lighting conditions, and backgrounds. This would help the model learn more variations of each plant. I would also experiment with adjusting training parameters such as epochs and learning rate to further improve the model’s performance.
