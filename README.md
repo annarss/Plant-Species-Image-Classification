@@ -70,7 +70,7 @@ Boston fern has long green fronds that spread outward. It is often used as a han
 ---
 
 ### 6. Bird’s Nest Fern
-
+![birds_nest](https://github.com/user-attachments/assets/79c4b95a-44f8-4bfa-a94f-47cdf7209e12)
 **Common Name:** Bird’s Nest Fern  
 **Scientific Name:** Asplenium nidus  
 
@@ -288,31 +288,48 @@ calathea_madallion:253
 # E. Model Testing
 
 ### Test 1
-![Test1](https://github.com/user-attachments/assets/b6347809-511b-4abf-a3f8-bb6a8843d437)
+<img width="919" height="911" alt="Screenshot 2026-03-08 155759" src="https://github.com/user-attachments/assets/7a03151a-08a8-46c1-a691-ffd06c3bc71a" />
+<img width="925" height="912" alt="Screenshot 2026-03-08 155812" src="https://github.com/user-attachments/assets/5abb210b-9804-4a1f-9fe2-58d053a5ffc5" />
+
 
 ### Test 2
-![Test2](https://github.com/user-attachments/assets/ccd0c36a-9709-4eb6-b1bb-7e4197dc5192)
+<img width="924" height="909" alt="Screenshot 2026-03-08 155832" src="https://github.com/user-attachments/assets/de24a7f9-8a82-4642-b026-0262f25a691e" />
+<img width="931" height="912" alt="Screenshot 2026-03-08 155847" src="https://github.com/user-attachments/assets/af791d55-d7b2-46e4-a6a5-97c4cf9a16d0" />
+
 
 ### Test 3
-![Test3](https://github.com/user-attachments/assets/0095750c-87e9-4998-8ede-7521850f14a0)
+<img width="906" height="912" alt="Screenshot 2026-03-08 155905" src="https://github.com/user-attachments/assets/58562faf-02d3-4706-b03a-edebc85eea8a" />
+<img width="889" height="893" alt="Screenshot 2026-03-08 155918" src="https://github.com/user-attachments/assets/a39613be-4e39-4f40-8664-f0d424fb6ab0" />
 
 ### Test 4
-![Test4](https://github.com/user-attachments/assets/fd7fdba2-6a12-440e-b16e-9ab3fe72a1d4)
+<img width="943" height="921" alt="Screenshot 2026-03-08 160301" src="https://github.com/user-attachments/assets/0f44d024-3d83-41e0-a6d6-6e823443b492" />
+<img width="866" height="925" alt="Screenshot 2026-03-08 160312" src="https://github.com/user-attachments/assets/a7d28aae-71b8-40aa-adef-11a4b64a215f" />
+
 
 ### Test 5
-![Test5](https://github.com/user-attachments/assets/b9cb947a-0414-4ebf-a608-f04ec682124e)
+<img width="902" height="949" alt="Screenshot 2026-03-08 160615" src="https://github.com/user-attachments/assets/707a3ded-7f55-426e-bdf0-b1d461930944" />
+<img width="926" height="908" alt="Screenshot 2026-03-08 160633" src="https://github.com/user-attachments/assets/cb5b86ca-c069-49aa-b2b3-d19b71ab4a99" />
+
 
 ### Test 6
-![Test6](https://github.com/user-attachments/assets/5e6f90c1-64c2-45d6-8fd7-3f627688f9ea)
+<img width="951" height="912" alt="Screenshot 2026-03-08 160647" src="https://github.com/user-attachments/assets/a0691479-9a96-445f-a073-a0d03d4e77b2" />
+<img width="885" height="930" alt="Screenshot 2026-03-08 160700" src="https://github.com/user-attachments/assets/9623efce-5391-4396-b7bc-f5a674472fe3" />
+
 
 ### Test 7
-![Test7](https://github.com/user-attachments/assets/273d8682-0e61-447a-a5fb-2d47736b974c)
+<img width="894" height="890" alt="Screenshot 2026-03-08 160717" src="https://github.com/user-attachments/assets/71f0f284-f401-47b6-ac5f-def160aff675" />
+
 
 ### Test 8
-![Test8](https://github.com/user-attachments/assets/174aad7b-1e3f-4ef7-bd57-210df482da95)
+<img width="880" height="903" alt="Screenshot 2026-03-08 160734" src="https://github.com/user-attachments/assets/e9790f99-e444-47c7-af45-6b5556f35b97" />
+
 
 ### Test 9
-![Test9](https://github.com/user-attachments/assets/cf157320-f79c-4226-a953-347383f06e57)
+<img width="519" height="862" alt="Screenshot 2026-03-08 213138" src="https://github.com/user-attachments/assets/81498c3b-e357-4c99-aaf5-b66ad836df29" />
+<img width="709" height="905" alt="Screenshot 2026-03-08 213153" src="https://github.com/user-attachments/assets/9df43adc-2e46-44e0-b16a-eec2f56ce0f6" />
+
 
 ### Test 10
-![Test10](https://github.com/user-attachments/assets/c0a5cdc9-4a4e-4d70-9b89-9d1f1d3ea9bb)
+<img width="830" height="859" alt="Screenshot 2026-03-08 213258" src="https://github.com/user-attachments/assets/fa2052f8-bee2-4983-a03d-01656271f786" />
+<img width="808" height="886" alt="Screenshot 2026-03-08 213306" src="https://github.com/user-attachments/assets/53ef3e2c-c24b-4e5a-bc76-7ab87f79e1b5" />
+
