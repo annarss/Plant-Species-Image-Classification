@@ -240,26 +240,27 @@ Xanadu is a tropical plant with deeply lobed green leaves and is often used for 
 - **Learning Rate:** 0.001  
 
 ### Number of Images per Class
-alocasia_polly:251
-areca_palm:251
-birds_nest:250
-chlorophytum_comosum:256
-corn_plant:250
-croton_mammy:250
-croton_petra:256
-fern:260
-round_leaf_fountain_palm:258
-rubber_plant:257
-snake_plant:254
-tropical_snow:250
-philodendron_xanadu:270
-anthurium_red_champion:252
-fiddle_leaf_fig:250
-zz_plant:258
-caladium_red_flash:257
-golden_pothos:253
-peace_lily:251
-calathea_madallion:253
+
+- Alocasia Polly: 251  
+- Areca Palm: 251  
+- Bird’s Nest Fern: 250  
+- Chlorophytum Comosum: 256  
+- Corn Plant: 250  
+- Croton Mammy: 250  
+- Croton Petra: 256  
+- Fern: 260  
+- Round-leaf Fountain Palm: 258  
+- Rubber Plant: 257  
+- Snake Plant: 254  
+- Tropical Snow: 250  
+- Philodendron ‘Xanadu’: 270  
+- Anthurium – Red Champion: 252  
+- Fiddle Leaf Fig: 250  
+- ZZ Plant: 258  
+- Caladium (Red Flash): 257  
+- Golden Pothos: 253  
+- Peace Lily: 251  
+- Calathea Medallion: 253  
 
 
 ---
